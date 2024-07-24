@@ -1,0 +1,12 @@
+/Users/rokaskamblevicius/RiderProjects/PVPBackend/PVPDomain/bin/Debug/net6.0/PVPDomain.deps.json
+/Users/rokaskamblevicius/RiderProjects/PVPBackend/PVPDomain/bin/Debug/net6.0/PVPDomain.dll
+/Users/rokaskamblevicius/RiderProjects/PVPBackend/PVPDomain/bin/Debug/net6.0/PVPDomain.pdb
+/Users/rokaskamblevicius/RiderProjects/PVPBackend/PVPDomain/obj/Debug/net6.0/PVPDomain.csproj.AssemblyReference.cache
+/Users/rokaskamblevicius/RiderProjects/PVPBackend/PVPDomain/obj/Debug/net6.0/PVPDomain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rokaskamblevicius/RiderProjects/PVPBackend/PVPDomain/obj/Debug/net6.0/PVPDomain.AssemblyInfoInputs.cache
+/Users/rokaskamblevicius/RiderProjects/PVPBackend/PVPDomain/obj/Debug/net6.0/PVPDomain.AssemblyInfo.cs
+/Users/rokaskamblevicius/RiderProjects/PVPBackend/PVPDomain/obj/Debug/net6.0/PVPDomain.csproj.CoreCompileInputs.cache
+/Users/rokaskamblevicius/RiderProjects/PVPBackend/PVPDomain/obj/Debug/net6.0/PVPDomain.dll
+/Users/rokaskamblevicius/RiderProjects/PVPBackend/PVPDomain/obj/Debug/net6.0/refint/PVPDomain.dll
+/Users/rokaskamblevicius/RiderProjects/PVPBackend/PVPDomain/obj/Debug/net6.0/PVPDomain.pdb
+/Users/rokaskamblevicius/RiderProjects/PVPBackend/PVPDomain/obj/Debug/net6.0/ref/PVPDomain.dll
